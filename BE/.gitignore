@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+MongoDB/
+npm-debug.log
